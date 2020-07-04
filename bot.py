@@ -41,7 +41,7 @@ def help_command(update, context):
                                "/add - or you can contact @Denver \n\n" 
                                "/moon - for see the regions on moon\n\n"
                                "/earth - for see the regions on earth\n\n"  
-                               "/donate - For see the ressources Offers"
+                               "/donate - For make a Donation "
                                "")
                              
     
