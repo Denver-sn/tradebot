@@ -56,7 +56,9 @@ def add_command(update, context):
 def earth_command(update, context):
     """Send a message when the command /ressources is issued."""
     update.message.reply_text(" EARTH REGIONS ON SALE!\n\n"
-                              "State + North Vietnam + South Vietnam\n" "Link: https://m.rivalregions.com/#state/details/3049\n" "Price: 300T\n" " Contact: @kilicArslanHan\n\n  )
+                              "State + North Vietnam + South Vietnam\n" "Link: https://m.rivalregions.com/#state/details/3049\n" "Price: 300T\n" " Contact: @kilicArslanHan\n\n"
+                              "------------------------------------------------------------\n"
+                              "Region: region Eastern Afghanistan\n" "Link: https://m.rivalregions.com/#map/details/16102\n" "Price: >> Contact: @RuhAdam1\n\n" )
     
 def donate_command(update, context):
     """Send a message when the command /accounts is issued."""
